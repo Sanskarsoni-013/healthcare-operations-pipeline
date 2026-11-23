@@ -103,7 +103,7 @@ healthcare-operations-pipeline/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/sanskar-soni/healthcare-operations-pipeline.git
+git clone https://github.com/Sanskarsoni-013/healthcare-operations-pipeline.git
 cd healthcare-operations-pipeline
 ```
 
@@ -131,4 +131,4 @@ python src/pipeline.py
 ---
 
 ## 👤 Author
-- **Sanskar Soni** - [LinkedIn](https://linkedin.com/in/sanskar-soni-669382311) • [GitHub](https://github.com/sanskar-soni)
+- **Sanskar Soni** - [LinkedIn](https://linkedin.com/in/sanskar-soni-669382311) • [GitHub](https://github.com/Sanskarsoni-013)
